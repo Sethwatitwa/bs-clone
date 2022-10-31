@@ -1,0 +1,17 @@
+.dropdown-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    
+ }
+ 
+ .label{
+     margin-right: 10px;
+         
+ }
+ 
+ .select-field{
+    padding: 4px;
+    width: 190px;
+ }

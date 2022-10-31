@@ -1,0 +1,15 @@
+.input-group{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin-bottom: 10px;
+}
+
+.label{
+    margin-right: 10px;
+        
+}
+
+.input-field{
+   padding: 4px;
+}

@@ -1,0 +1,13 @@
+.border-component{
+    border: 1px solid;
+    display: flex;
+    justify-content: left;
+    padding-top: 15px;
+    padding-left: 25px;
+    gap: 100px;
+   
+}
+.on-right {
+    border-bottom: 30px;
+    background-color: blue;
+}
